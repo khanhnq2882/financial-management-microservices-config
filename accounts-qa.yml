@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts service in the qa environment"
+  message: "Welcome to EazyBank accounts service in the QA environment"
   contactDetails:
-    name: "John Wick"
-    email: "johnWick@gmail.com"
+    name: "Tony Stark"
+    email: "tonyStark@gmail.com"
   onCallSupport:
     -(555)123-4567
     -(555)876-5432
