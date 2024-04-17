@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts service"
+  contactDetails:
+    name: "Johnny Dept"
+    email: "johnnydept@gmail.com"
+  onCallSupport:
+    -(555)555-1234
+    -(555)765-4321

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts service in the prod environment"
+  contactDetails:
+    name: "Mr Bean"
+    email: "mrBean@gmail.com"
+  onCallSupport:
+    -(555)555-4444
+    -(555)765-4321
