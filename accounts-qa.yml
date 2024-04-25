@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to accounts service in the QA environment (Github repository)"
+  message: "Welcome to accounts service in the qa environment (Github repository)"
   contactDetails:
-    name: "Master Yi"
-    email: "masterYi@gmail.com"
+    name: "Lee sin"
+    email: "leesin@gmail.com"
   onCallSupport:
     -(555)123-4567
     -(555)876-5432
