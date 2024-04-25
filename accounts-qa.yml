@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts service in the qa environment"
+  message: "Welcome to accounts service in the QA environment (Github repository)"
   contactDetails:
     name: "Master Yi"
     email: "masterYi@gmail.com"
