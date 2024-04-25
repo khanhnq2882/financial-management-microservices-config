@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to cards service related PROD environments (Github repository)"
+  message: "Welcome to cards service related production environments (Github repository)"
   contactDetails:
     name: "Steve Jobs - Product Owner"
-    email: "steveJobs@eazybank.com"
+    email: "steveJobs@gmail.com"
   onCallSupport:
-    - (617) 432-2356
+    - (617) 432-1234
     - (936) 564-8721
