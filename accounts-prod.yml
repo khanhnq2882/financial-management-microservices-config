@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts service in the prod environment"
+  message: "Welcome to EazyBank accounts service in the PROD environment"
   contactDetails:
     name: "Mr Bean"
     email: "mrBean@gmail.com"
