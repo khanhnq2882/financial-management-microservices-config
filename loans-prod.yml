@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank loans related prod APIs "
+  message: "Welcome to loans service related prod APIs (Github repository)"
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
-    email: "pelias@eazybank.com"
+    email: "pelias@gmail.com"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
