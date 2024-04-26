@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to accounts service in the production environment (Github Repository)"
   contactDetails:
-    name: "space speakers"
-    email: "spaceSpeakers@gmail.com"
+    name: "Khada Jhin"
+    email: "khadaJhin@gmail.com"
   onCallSupport:
-    -(123)555-6789
-    -(456)765-4321
+    -(555)555-6789
+    -(777)765-4321
