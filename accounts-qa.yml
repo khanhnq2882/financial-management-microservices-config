@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to accounts service in the QA environment (Github repository)"
+  message: "Welcome to accounts service in the qa environment (Github repository)"
   contactDetails:
-    name: "Khada Jhin"
-    email: "khadaJhin@gmail.com"
+    name: "Master Yi"
+    email: "masterYi@gmail.com"
   onCallSupport:
     -(555)123-4567
     -(444)444-4444
