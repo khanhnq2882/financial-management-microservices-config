@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to accounts service in the production environment (Github Repository)"
+  message: "Welcome to accounts service in the PROD environment (Github Repository)"
   contactDetails:
-    name: "Khada Jhin"
-    email: "KhadaJhin@gmail.com"
+    name: "Master Yi"
+    email: "MasterYi@gmail.com"
   onCallSupport:
-    -(444)555-6789
-    -(444)765-4321
+    -(123)555-6789
+    -(456)765-4321
