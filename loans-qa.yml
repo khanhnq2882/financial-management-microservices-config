@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to loans service related QA APIs (Github repository)"
+  message: "Welcome to loans service related QA environment (Github repository)"
   contactDetails:
-    name: "Cyrano Marita - QA Lead"
-    email: "cyrano@gmail.com"
+    name: "Queen Meave - QA Lead"
+    email: "QueenMeave@gmail.com"
   onCallSupport:
-    - (785) 545-6565
-    - (853) 546-3467
+    - (234) 545-6565
+    - (567) 546-3467
