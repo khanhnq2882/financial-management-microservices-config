@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to cards service related local APIs (Github repository)"
+  message: "Welcome to cards service related to default environment (Github repository)"
   contactDetails:
-    name: "Dragos Lech - Developer"
-    email: "dragos@gmail.com"
+    name: "Hidden Shadow - Developer"
+    email: "HiddenShadow@gmail.com"
   onCallSupport:
-    - (412) 419-3491
-    - (915) 382-1932
+    - (246) 419-3491
+    - (357) 382-1932
