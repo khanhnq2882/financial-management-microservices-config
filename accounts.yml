@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts service"
+  message: "Welcome to EazyBank accounts service in the default environment"
   contactDetails:
-    name: "Johnny Dept"
-    email: "johnnydept@gmail.com"
+    name: "Starlight - Business Analyst"
+    email: "Starlight@gmail.com"
   onCallSupport:
     -(555)555-1234
     -(555)765-4321
