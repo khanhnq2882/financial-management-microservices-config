@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts service"
   contactDetails:
-    name: "Billy Butcher - Team Leader"
-    email: "BillyButcher@gmail.com"
+    name: "Mother Milk - Team Leader"
+    email: "MotherMilk@gmail.com"
   onCallSupport:
     -(555)555-1234
     -(555)765-4321
