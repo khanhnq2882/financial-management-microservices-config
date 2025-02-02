@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to accounts service in the production environment (Github Repository)"
   contactDetails:
-    name: "Kaito Kid"
-    email: "KaitoKid@gmail.com"
+    name: "Shadow Slayer"
+    email: "ShadowSlayer@gmail.com"
   onCallSupport:
     -(123)555-6789
     -(321)765-4321
