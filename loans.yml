@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to loans service related local APIs(Github repository)"
+  message: "Welcome to loans service related Local APIs(Github repository)"
   contactDetails:
-    name: "Stormfront - Tester"
-    email: "Stormfront@gmail.com"
+    name: "Homelander - Tester"
+    email: "homelander@gmail.com"
   onCallSupport:
     - (452) 456-2176
     - (546) 764-8934
